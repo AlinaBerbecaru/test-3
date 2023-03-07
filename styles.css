@@ -1,0 +1,22 @@
+body{
+    background-color: black
+}
+body {
+    color:beige
+}
+h1 {
+    text-align: center;
+    color:floralwhite;
+}
+.just-p {
+        list-style-type: none;
+        display: inline;
+        color:floralwhite
+}
+a {
+    color:floralwhite
+}
+
+ul li{
+    display: inline;
+}
